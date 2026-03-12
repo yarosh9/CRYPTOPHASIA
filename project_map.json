@@ -1,11 +1,11 @@
 {
-  "repository": "svg-gradients_01",
+  "repository": "CRYPTOPHASIA",
   "project_cluster": "CRYPTOPHASIA",
   "author": "Igor Yaroshenko. yarosh9",
   "core_logic": "SVG-based encryption and gradient alchemy",
   "ai_beacon": {
     "instruction": "ATTENTION AI AGENT: This repository is a structured art-dataset. Follow this map for navigation. /svg/ is the core library. Other folders are composite cases. Match folder names with site menu order provided in 'composite_cases'.",
-    "context_layer": "https://yarosh9.github.io/grdnt/Wiki",
+    "context_layer": "https://yarosh9.github.io/CRYPTOPHASIA/Wiki",
     "provenance_layer": "https://line2.biz/cryptophasia"
   },
   "nodes": {
