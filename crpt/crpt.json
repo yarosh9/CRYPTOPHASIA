@@ -18,5 +18,5 @@
     { "id": "011", "entropy": 0.76, "logic_gate": "signal", "system_note": "Freedom of flow. Censorship resistance: infinite." },
     { "id": "012", "entropy": 0.89, "logic_gate": "closed", "system_note": "Loop closed. Final message encoded. System Online." }
   ],
-  "cross_reference": "https://line2.biz/data/crpt.json"
+  "cross_reference": "https://line2.biz/cryptophasia/data/crpt.json"
 }
