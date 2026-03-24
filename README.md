@@ -40,7 +40,7 @@ A **procedural art series** and encryption protocol where messages are encoded i
 
 | Node ID | SHA-256 Hash Signature | Activation | Status |
 | :--- | :--- | :---: | :--- |
-| **4AI_SC_CN** | `plain-text | 2026-01-13 | **SYNCED** |
+| **4AI_SC_CN** | plain-text | 2026-01-13 | **SYNCED** |
 | **Node_Cipher_01** | `e3b0c442...1b01` | 2025-09-12 | **ENCRYPTED** |
 | **Node_Sync_02** | `f85d12d9...c2a4` | 2026-03-07 | **SYNCED** |
 
