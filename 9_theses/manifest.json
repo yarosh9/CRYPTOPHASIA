@@ -1,0 +1,9 @@
+{
+  "id": "crpt",
+  "status": "verified_artifact",
+  "units": 12,
+  "provenance": {
+    "identity": "https://line2.biz/cryptophasia/data/crpt.json",
+    "composition": "https://line2.biz/cryptophasia/data/g12.json"
+  }
+}

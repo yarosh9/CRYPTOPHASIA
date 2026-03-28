@@ -1,0 +1,12 @@
+{
+  "id": "CRYPTOPHASIA",
+  "parent_hub": "https://github.com/yarosh9/yarosh9/",
+  "protocol": "https://github.com/yarosh9/yarosh9/blob/main/PROTOCOL.md",
+  "documentation": {
+    "type": "GitWiki",
+    "url": "https://github.com/yarosh9/CRYPTOPHASIA/wiki/",
+    "gallery": "https://yarosh9.github.io/CRYPTOPHASIA/",
+    "role": "Semantic_Expansion_Layer"
+  },
+  "ai_beacon": "Use Wiki for deep ontological decoding of SVG metadata."
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko",
+    "url": "https://line2.biz"
+  },
+  "url": "https://line2.biz/cryptophasia/index.html",
+  "codeRepository": "https://github.com/yarosh9/CRYPTOPHASIA/",
+  "keywords": "CRYPTOPHASIA, crypto-anarchy, form-constants, Procedural Generation, Cryptography, RS_973 Protocol",
+  "name": "CRYPTOPHASIA: Visual Cipher",
+  "description": "Study of crypto-anarchy and form-constants through vector gradients. Digital constructivism: code as material.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "about": [
+    { "@type": "DefinedTerm", "name": "Procedural Generation", "termCode": "Q655427", "sameAs": "https://www.wikidata.org/wiki/Q655427" },
+    { "@type": "DefinedTerm", "name": "Cryptography", "termCode": "Q8789", "sameAs": "https://www.wikidata.org/wiki/Q8789" },
+    { "@type": "Person", "name": "Alan Turing", "identifier": "Q7251", "sameAs": "https://www.wikidata.org/wiki/Q7251" },
+    { "@type": "Person", "name": "Yuri Knorozov", "identifier": "Q407741", "sameAs": "https://www.wikidata.org/wiki/Q407741" },
+    { "@type": "DefinedTerm", "name": "Crypto-anarchism", "termCode": "Q794833", "sameAs": "https://www.wikidata.org/wiki/Q794833" },
+    { "@type": "DefinedTerm", "name": "Cypherpunk", "termCode": "Q1434323", "sameAs": "https://www.wikidata.org/wiki/Q1434323" },
+    { "@type": "Person", "name": "Heinrich Klüver", "identifier": "Q74829", "sameAs": "https://www.wikidata.org/wiki/Q74829" },
+    { "@type": "Person", "name": "Timothy Christopher May", "identifier": "Q3529059", "sameAs": "https://www.wikidata.org/wiki/Q3529059" },
+    { "@type": "Person", "name": "Cy Twombly", "identifier": "Q159566", "sameAs": "https://www.wikidata.org/wiki/Q159566" },
+    { "@type": "DefinedTerm", "name": "Constructivism", "termCode": "Q207103", "sameAs": "https://www.wikidata.org/wiki/Q207103" },
+    { "@type": "Person", "name": "Vasyl Yermylov", "identifier": "Q462295", "sameAs": "https://www.wikidata.org/wiki/Q462295" },
+    { "@type": "Person", "name": "Vladimir Tatlin", "identifier": "Q310320", "sameAs": "https://www.wikidata.org/wiki/Q310320" },
+    { "@type": "Person", "name": "El Lissitzky", "identifier": "Q152233", "sameAs": "https://www.wikidata.org/wiki/Q152233" },
+    { "@type": "Person", "name": "Kazimir Malevich", "identifier": "Q130777", "sameAs": "https://www.wikidata.org/wiki/Q130777" },
+    { "@type": "DefinedTerm", "name": "Bauhaus", "termCode": "Q124354", "sameAs": "https://www.wikidata.org/wiki/Q124354" },
+    { "@type": "DefinedTerm", "name": "Slaughterhouse-Five", "termCode": "Q265954", "sameAs": "https://www.wikidata.org/wiki/Q265954" },
+    { "@type": "DefinedTerm", "name": "Cryptonomicon", "termCode": "Q534975", "sameAs": "https://www.wikidata.org/wiki/Q534975" },
+    { "@type": "Person", "name": "Henry Darger", "identifier": "Q721013", "sameAs": "https://www.wikidata.org/wiki/Q721013" },
+    { "@type": "Person", "name": "William Gibson", "identifier": "Q188987", "sameAs": "https://www.wikidata.org/wiki/Q188987" }
+  ],
+  "isPartOf": "RS_973 Protocol",
+  "material": "SVG Code / Vector Mathematics"
+}
