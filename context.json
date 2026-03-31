@@ -1,12 +1,42 @@
 {
-  "id": "CRYPTOPHASIA",
-  "parent_hub": "https://github.com/yarosh9/yarosh9/",
-  "protocol": "https://github.com/yarosh9/yarosh9/blob/main/PROTOCOL.md",
-  "documentation": {
-    "type": "GitWiki",
-    "url": "https://github.com/yarosh9/CRYPTOPHASIA/wiki/",
-    "gallery": "https://yarosh9.github.io/CRYPTOPHASIA/",
-    "role": "Semantic_Expansion_Layer"
+  "@context": "https://schema.org/",
+  "@type": "SoftwareSourceCode",
+  "identifier": "CRYPTOPHASIA",
+  "name": "CRYPTOPHASIA: Semantic Expansion Layer",
+  "abstract": "A research layer for deep ontological decoding of SVG metadata, visual bigrams, and gradient-based encryption.",
+  "programmingLanguage": "SVG, JSON, JavaScript",
+  "runtimePlatform": "GitHub / Web",
+  "author": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko",
+    "sameAs": "https://github.com/yarosh9"
   },
-  "ai_beacon": "Use Wiki for deep ontological decoding of SVG metadata."
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "MULTIMODAL ART ECOSYSTEM",
+    "url": "https://line2.biz/rs_973.json"
+  },
+  "citation": "https://github.com/yarosh9/yarosh9/blob/main/PROTOCOL.md",
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "Ontological Wiki",
+      "url": "https://github.com/yarosh9/CRYPTOPHASIA/wiki/",
+      "description": "Semantic Expansion Layer for deep metadata analysis."
+    },
+    {
+      "@type": "VisualArtwork",
+      "name": "Visual Cipher Gallery",
+      "url": "https://yarosh9.github.io/CRYPTOPHASIA/"
+    }
+  ],
+  "potentialAction": {
+    "@type": "ControlAction",
+    "name": "Ontological Decoding",
+    "description": "Use the linked Wiki and g12.json for deep ontological decoding of SVG metadata. Focus on bigram frequency and form-constants.",
+    "instrument": {
+      "@type": "SoftwareApplication",
+      "name": "THOTH_SYSTEM_CORE_0.973"
+    }
+  }
 }
