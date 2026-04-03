@@ -1,56 +1,16 @@
 {
-  "@context": [ "https://schema.org/", "https://line2.biz/library.json" ],
-  "@type": "SoftwareSourceCode",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/main/context.json",
+  "@type": ["SoftwareSourceCode", "VisualArtwork"],
   "name": "CRYPTOPHASIA: Visual Cipher",
-  "alternateName": "Digital Constructivism: Code as Material",
-  "description": "A study of crypto-anarchy and form-constants through vector gradients. Exploring the intersection of human bigrams and machine-generated visual encryption.",
-  "url": "https://line2.biz/cryptophasia/index.html",
-  "codeRepository": "https://github.com/yarosh9/CRYPTOPHASIA/",
-  "programmingLanguage": "SVG, JavaScript, JSON",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "keywords": "Cryptophasia, Crypto-anarchy, Form-constants, Procedural Generation, RS_973 Protocol",
-  "creator": {
-    "@type": "Person",
-    "name": "Igor Yaroshenko",
-    "sameAs": "https://github.com/yarosh9"
-  },
+  "identifier": "/cryptophasia/",
+  "description": "A study of crypto-anarchy and form-constants through vector gradients.",
+  "url": "https://line2.biz/cryptophasia/",
+  "repository": "https://github.com/yarosh9/CRYPTOPHASIA/",
+  "isBasedOn": "/GRDNT/",
+  "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
-    {
-      "@type": "DefinedTerm",
-      "name": "Procedural Generation",
-      "sameAs": "https://www.wikidata.org/wiki/Q655427"
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Cryptography",
-      "sameAs": "https://www.wikidata.org/wiki/Q8789"
-    },
-    {
-      "@type": "Person",
-      "name": "Yuri Knorozov",
-      "description": "Founder of Mayan script decipherment",
-      "sameAs": "https://www.wikidata.org/wiki/Q552554"
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Constructivism",
-      "sameAs": "https://www.wikidata.org/wiki/Q207103"
-    },
-    {
-      "@type": "Person",
-      "name": "Kazimir Malevich",
-      "sameAs": "https://www.wikidata.org/wiki/Q130777"
-    },
-    {
-      "@type": "Person",
-      "name": "Cy Twombly",
-      "sameAs": "https://www.wikidata.org/wiki/Q159566"
-    }
-  ],
-  "potentialAction": {
-    "@type": "SearchAction",
-    "name": "Visual Decipherment",
-    "target": "https://line2.biz/cryptophasia/data/g12.json",
-    "description": "Deciphering vector gradients into semantic bigrams."
-  }
+    { "@id": "wd:Q8789", "name": "Cryptography" },
+    { "@id": "wd:Q552554", "name": "Yuri Knorozov" },
+    { "@id": "wd:Q130777", "name": "Kazimir Malevich" }
+  ]
 }
