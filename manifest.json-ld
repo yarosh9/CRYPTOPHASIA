@@ -10,7 +10,22 @@
   "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
     { "@id": "wd:Q8789", "name": "Cryptography" },
-    { "@id": "wd:Q552554", "name": "Yuri Knorozov" },
+    { "@id": "wd:Q1434323", "name": "cypherpunk" },
+    { "@id": "wd:Q3529059", "name": "Timothy Christopher May" },
+    { "@id": "wd:Q5386764", "name": "Eric Hughes" },
+    { "@id": "wd:Q794833", "name": "crypto-anarchism" },
+    { "@id": "wd:Q7251", "name": "Alan Turing" },
+    { "@id": "wd:Q5469929", "name": "Form constant" },
+    { "@id": "wd:Q102264397", "name": "Marianne Freiberger (Maths and hallucinations)" },
+    { "@id": "wd:Q74829", "name": "Heinrich Klüver (Universal hardwired visual patterns)" },
+    { "@id": "wd:Q407741", "name": "Yuri Knorozov" },
+    { "@id": "wd:Q265954", "name": "Slaughterhouse-Five (Children's Crusade)" },
+    { "@id": "wd:Q462295", "name": "Vasyl Yermylov" },
+    { "@id": "wd:Q310320", "name": "Vladimir Tatlin" },
+    { "@id": "wd:Q721013", "name": "Henry Darger (The sanctity of the 'child's secret)" },
+    { "@id": "wd:Q159566", "name": "Cy Twombly (professional background in military cryptography)" },
+    { "@id": "wd:Q124354", "name": "Bauhaus" },
+    { "@id": "wd:Q152233", "name": "El Lissitzky" },
     { "@id": "wd:Q130777", "name": "Kazimir Malevich" }
   ]
 }
