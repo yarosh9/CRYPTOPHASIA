@@ -2,17 +2,24 @@
   "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "@type": "DataCatalog",
   "name": "CRYPTOPHASIA: Data Map",
-  "identifier": "/cryptophasia_map/",
+  "identifier": "/CRYPTOPHASIA/",
+    "creator": {
+    "@id": "https://github.com/yarosh9",
+    "name": "Igor Yaroshenko | yarosh9"
+  },
   "dataset": [
     {
       "@type": "Dataset",
       "name": "Master Layer",
-      "url": "https://line2.biz/cryptophasia/manifest.json"
+      "url": "https://line2.biz/cryptophasia/manifest.json",
+      "repo": "https://github.com/yarosh9/CRYPTOPHASIA/",
+      "wiki": "https://github.com/yarosh9/CRYPTOPHASIA/wiki",
+      "gallery": "https://yarosh9.github.io/CRYPTOPHASIA/index.html"
     },
     {
       "@type": "Dataset",
-      "name": "Collection",
-      "url": "https://line2.biz/cryptophasia/context.json"
+      "name": "Provinance",
+      "url": "https://line2.biz/cryptophasia/data/g12.json"
     }
   ],
   "potentialAction": {

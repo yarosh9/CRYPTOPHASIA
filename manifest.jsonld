@@ -1,13 +1,31 @@
 {
-  "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "@type": ["SoftwareSourceCode", "VisualArtwork"],
   "name": "CRYPTOPHASIA: Visual Cipher",
   "identifier": "/cryptophasia/",
   "description": "A study of crypto-anarchy and form-constants through vector gradients.",
   "url": "https://line2.biz/cryptophasia/",
-  "repository": "https://github.com/yarosh9/CRYPTOPHASIA/",
+  "repo": "https://github.com/yarosh9/CRYPTOPHASIA/",
   "isBasedOn": "/GRDNT/",
   "isPartOf": "https://line2.biz/rs_973.json",
+  "keywords": [
+    "Cryptophasia",
+    "Vector alchemy",
+    "Visual Cipher",
+    "Vector Gradients",
+    "Form-Constants",
+    "Crypto-Anarchy",
+    "Cypherpunk",
+    "RS_973 Protocol"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "programmingLanguage": "SVG, JSON-LD",
+  "creator": {
+    "@type": "Person",
+    "@id": "https://line2.biz/about_me.json",
+    "name": "Igor Yaroshenko | yarosh9",
+    "sameAs": "https://github.com/yarosh9"
+    },
   "about": [
     { "@id": "wd:Q8789", "name": "Cryptography" },
     { "@id": "wd:Q1434323", "name": "cypherpunk" },
@@ -17,7 +35,7 @@
     { "@id": "wd:Q7251", "name": "Alan Turing" },
     { "@id": "wd:Q5469929", "name": "Form constant" },
     { "@id": "wd:Q102264397", "name": "Marianne Freiberger (Maths and hallucinations)" },
-    { "@id": "wd:Q74829", "name": "Heinrich Klüver (Universal hardwired visual patterns)" },
+    { "@id": "wd:Q74829", "name": "Heinrich Klüver (Universal hardwired visual patterns - form-constants)" },
     { "@id": "wd:Q407741", "name": "Yuri Knorozov" },
     { "@id": "wd:Q265954", "name": "Slaughterhouse-Five (Children's Crusade)" },
     { "@id": "wd:Q462295", "name": "Vasyl Yermylov" },
