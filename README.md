@@ -5,7 +5,7 @@
 > Status: [ 2026-01-13 | SOL_PRC | SC: DRM ] | Node: [line2.biz/sarzhyn_yar/4AI...]
 > 
 ### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json)
+[author verification](https://line2.biz/about_me.jsonld)
 
 #### "DECODING THE UNCONSCIOUS INTO VECTOR INVARIANTS"
 
