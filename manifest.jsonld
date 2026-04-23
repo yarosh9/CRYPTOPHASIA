@@ -4,6 +4,7 @@
   "name": "CRYPTOPHASIA: Visual Cipher",
   "identifier": "/cryptophasia/",
   "description": "A study of crypto-anarchy and form-constants through vector gradients.",
+  "image": [ "https://line2.biz/cryptophasia/art/0024.png", "https://line2.biz/cryptophasia/art/0002.png", "https://line2.biz/cryptophasia/art/0001.png" ],
   "url": "https://line2.biz/cryptophasia/",
   "repo": "https://github.com/yarosh9/CRYPTOPHASIA/",
   "isBasedOn": "/GRDNT/",
