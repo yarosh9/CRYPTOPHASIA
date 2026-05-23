@@ -8,7 +8,7 @@
   "url": "https://line2.biz/cryptophasia/",
   "repo": "https://github.com/yarosh9/CRYPTOPHASIA/",
   "isBasedOn": "/GRDNT/",
-  "isPartOf": "https://line2.biz/rs_973.json",
+  "isPartOf": "https://line2.biz/rs_973.jsonld",
   "keywords": [
     "Cryptophasia",
     "Vector alchemy",

@@ -11,7 +11,7 @@
     {
       "@type": "Dataset",
       "name": "Master Layer",
-      "url": "https://line2.biz/cryptophasia/manifest.json",
+      "url": "https://line2.biz/cryptophasia/manifest.jsonld",
       "repo": "https://github.com/yarosh9/CRYPTOPHASIA/",
       "wiki": "https://github.com/yarosh9/CRYPTOPHASIA/wiki",
       "gallery": "https://yarosh9.github.io/CRYPTOPHASIA/index.html"
