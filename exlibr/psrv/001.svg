@@ -98,14 +98,14 @@
          y="0" />
     </mask>
     <linearGradient id="linearGradient3">
-      <stop offset="0.0" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.7" style="stop-color:#ff0000;stop-opacity:1" />
-      <stop offset="0.7" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="0.0" style="stop-color:#aa0000;stop-opacity:1" />
+      <stop offset="0.5" style="stop-color:#aa0000;stop-opacity:1" />
+      <stop offset="0.5" style="stop-color:#000000;stop-opacity:0" />
       <stop offset="1.0" style="stop-color:#000000;stop-opacity:0" />
     </linearGradient>
     <linearGradient id="linearGradient1">
       <stop offset="0.0" style="stop-color:#ffaa00;stop-opacity:1" />
-      <stop offset="1.0" style="stop-color:#000000;stop-opacity:10" />
+      <stop offset="1.0" style="stop-color:#000000;stop-opacity:1" />
     </linearGradient>
     <radialGradient
        id="radialGradient1"
@@ -130,7 +130,7 @@
        cy="0.5"
        fx="0.5"
        fy="0.5"
-       r="0.8"
+       r="0.12"
        gradientUnits="objectBoundingBox"/>
     <radialGradient 
        xlink:href="#linearGradient3"
@@ -140,7 +140,7 @@
        cy="0.293"
        fx="0.5"
        fy="0.293"
-       r="0.02"
+       r="0.01"
        gradientUnits="objectBoundingBox"/>
     <mask id="Maskrr">
       <rect
@@ -160,7 +160,7 @@
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linearGradient1380);fill-opacity:0.57;fill-rule:evenodd;stroke:none"
+     style="fill:url(#linearGradient1380);fill-opacity:0.5;fill-rule:evenodd;stroke:none"
      width="1000"
      height="1000"
      x="0"
@@ -170,7 +170,7 @@
     <rect
        style="
        fill:url(#radialGradient21);
-       fill-opacity:0.9;"
+       fill-opacity:0.7;"
        width="1000"
        height="1000"
        x="0"
