@@ -10,14 +10,18 @@
     </rdf:RDF>
     <desc type="application/json" id="cryptophasia-meta">
       {
+        "@context": {
+          "form": "https://raw.githubusercontent.com/yarosh9/grdnt/refs/heads/master/Kluver_formConstants.jsonld",
+          "color": "https://raw.githubusercontent.com/yarosh9/grdnt/refs/heads/master/global_color_map.jsonld"
+        },
         "protocol": "Semantic-Metadata-V1",
         "logic": "inductive",
         "form": "composite_matrix",
         "color": "full_spectrum_roygbiv",
         "parent_node": "g12.png",
-        "manifest": "https://line2.biz/data/g12.json",
+        "manifest": "https://line2.biz/cryptophasia/data/g12.json",
         "description": "Richard Of York Gave Battle In Vain",
-        "origin": "line2.biz",
+        "origin": "line2.biz/rs_973#",
         "seed": "de97cc4-012",
         "node_type": "atlas_root"
       }

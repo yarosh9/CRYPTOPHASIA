@@ -10,13 +10,17 @@
     </rdf:RDF>
     <desc type="application/json" id="cryptophasia-meta">
       {
+        "@context": {
+          "form": "https://raw.githubusercontent.com/yarosh9/grdnt/refs/heads/master/Kluver_formConstants.jsonld",
+          "color": "https://raw.githubusercontent.com/yarosh9/grdnt/refs/heads/master/global_color_map.jsonld"
+        },
         "protocol": "Semantic-Metadata-V1",
         "logic": "inductive",
         "form": "direct_cross",
         "color": "orange",
         "parent_node": "g12.png",
-        "manifest": "https://line2.biz/data/g12.json",
-        "origin": "line2.biz",
+        "manifest": "https://line2.biz/cryptophasia/data/g12.json",
+        "origin": "line2.biz/rs_973#",
         "seed": "de97cc4-011"
       }
     </desc>
