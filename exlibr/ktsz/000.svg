@@ -1,0 +1,174 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient
+       id="linearGradient1382"
+       spreadMethod="reflect">
+      <stop style="stop-color:#001109;stop-opacity:0" offset="0" />
+      <stop style="stop-color:#001109;stop-opacity:1" offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0.95"
+       x2="0"
+       y2="0"
+       id="linearGradient1383"
+       spreadMethod="reflect">
+      <stop style="stop-color:#00ff99;stop-opacity:1" offset="0.000" />
+      <stop style="stop-color:#002211;stop-opacity:1" offset="1.000" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient1382"
+       gradientUnits="objectBoundingBox"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.003"
+       id="radial1" />
+    <radialGradient
+       xlink:href="#linearGradient1382"
+       gradientUnits="objectBoundingBox"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.008"
+       id="radial0" />
+    <radialGradient
+       xlink:href="#linearGradient1382"
+       gradientUnits="objectBoundingBox"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.25"
+       id="radial2" />
+
+
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="0.5"
+       y2="0"
+       id="redV"
+       spreadMethod="reflect">
+      <stop style="stop-color:#880000;stop-opacity:0" offset="0.0" />
+      <stop style="stop-color:#880000;stop-opacity:0" offset="0.964" />
+      <stop style="stop-color:#ff0011;stop-opacity:1" offset="0.964" />
+      <stop style="stop-color:#ff0011;stop-opacity:1" offset="0.973" />
+      <stop style="stop-color:#880000;stop-opacity:0" offset="0.973" />
+      <stop style="stop-color:#880000;stop-opacity:0" offset="1.0" />
+    </linearGradient>
+    <linearGradient id="redRM">
+      <stop style="stop-color:#000000" offset="0.00" />
+      <stop style="stop-color:#000000" offset="0.25" />
+      <stop style="stop-color:#ffffff" offset="0.25" />
+      <stop style="stop-color:#ffffff" offset="0.55" />
+      <stop style="stop-color:#000000" offset="0.55" />
+      <stop style="stop-color:#000000" offset="1.00" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#redRM"
+       gradientUnits="objectBoundingBox"
+       cx="0.5"
+       cy="0.5"
+       fx="0.5"
+       fy="0.5"
+       r="0.75"
+       id="redR" />
+    <linearGradient id="redL">
+      <stop style="stop-color:#ff0011;stop-opacity:0" offset="0.0" />
+      <stop style="stop-color:#ff0011;stop-opacity:1" offset="1.0" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#redL"
+       x1="0"
+       y1="0"
+       x2="0.1"
+       y2="0"
+       id="redL1"
+       spreadMethod="reflect"
+       gradientTransform="rotate(0 500 500)" />
+    <linearGradient
+       xlink:href="#redL"
+       x1="0.001"
+       y1="0"
+       x2="0"
+       y2="0"
+       id="redL2"
+       spreadMethod="reflect"
+       gradientTransform="rotate(-5 500 500)" />
+    <linearGradient
+       xlink:href="#redL"
+       x1="0.001"
+       y1="0"
+       x2="0"
+       y2="0"
+       id="redL3"
+       spreadMethod="reflect"
+       gradientTransform="rotate(5 500 500)" />
+    <mask id="Mask">
+      <rect
+         style="fill:url(#redR);fill-opacity:0.95;stroke:none"
+         width="1000"
+         height="1000"
+         x="0"
+         y="0" />
+    </mask>
+
+
+
+
+  </defs>
+  <rect
+     style="fill:url(#linearGradient1383);fill-opacity:1;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#radial1);fill-opacity:0.5;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#radial0);fill-opacity:0.5;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#radial2);fill-opacity:0.5;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#redV);fill-opacity:0.5;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#redL1);fill-opacity:0.75;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0"
+     mask="url(#Mask)" />
+  <rect
+     style="fill:url(#redL2);fill-opacity:0.25;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0"
+     mask="url(#Mask)" />
+  <rect
+     style="fill:url(#redL3);fill-opacity:0.25;stroke:none"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0"
+     mask="url(#Mask)" />
+</svg>
