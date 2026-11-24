@@ -70,7 +70,7 @@
   <stop style="stop-color:#330000;stop-opacity:0" offset="0.000" />
   <stop style="stop-color:#330000;stop-opacity:0" offset="0.900" />
   <stop style="stop-color:#550000;stop-opacity:1" offset="0.900" />
-  <stop style="stop-color:#ff0000;stop-opacity:1" offset="1.000" />
+  <stop style="stop-color:#ff0033;stop-opacity:1" offset="1.000" />
 </linearGradient>
 
 <linearGradient
@@ -79,9 +79,9 @@
    x2="0"
    y2="0"
    id="linGrdOrng">
-  <stop style="stop-color:#993300;stop-opacity:1" offset="0.000" />
-  <stop style="stop-color:#ffaa00;stop-opacity:1" offset="0.700" />
-  <stop style="stop-color:#993300;stop-opacity:1" offset="1.000" />
+  <stop style="stop-color:#550700;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#ff8800;stop-opacity:1" offset="0.700" />
+  <stop style="stop-color:#550700;stop-opacity:1" offset="1.000" />
 </linearGradient>
 <radialGradient
    xlink:href="#linGrdOrng"
@@ -91,7 +91,7 @@
    cy="0.5"
    fx="0.5"
    fy="0.5"
-   r="0.145"
+   r="0.399"
    id="radial2" />
 <radialGradient
    xlink:href="#linGrdM"
@@ -273,14 +273,14 @@
 
   <g mask="url(#Mask1)">
   <rect
-     style="fill:url(#linGrdRed);fill-opacity:0.6;stroke:none"
+     style="fill:url(#linGrdRed);fill-opacity:0.7;stroke:none"
      transform="rotate(0 500 500)"
      width="1000"
      height="1000"
      x="0"
      y="0" />
   <rect
-     style="fill:url(#linGrdRed);fill-opacity:0.999;stroke:none"
+     style="fill:url(#linGrdRed);fill-opacity:1;stroke:none"
      transform="rotate(0 500 500)"
      width="1000"
      height="1000"
